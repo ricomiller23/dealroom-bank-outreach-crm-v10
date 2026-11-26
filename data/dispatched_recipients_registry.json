@@ -1,0 +1,375 @@
+{
+  "updatedAt": "2026-10-30T16:15:37.548Z",
+  "totalDispatchedRecipients": 41,
+  "recipients": {
+    "mary.usategui@bankmiami.com": {
+      "email": "mary.usategui@bankmiami.com",
+      "name": "Mary B. Usategui",
+      "bank": "BankMiami",
+      "title": "Founder, President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:16.788Z",
+      "subject": "A capital-raise room for BankMiami's next round"
+    },
+    "justine.durham@bankmiami.com": {
+      "email": "justine.durham@bankmiami.com",
+      "name": "Justine Durham",
+      "bank": "BankMiami",
+      "title": "EVP, CFO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:22.505Z",
+      "subject": "One ledger for BankMiami's capital raise"
+    },
+    "irawlins@fortunabank.com": {
+      "email": "irawlins@fortunabank.com",
+      "name": "Ilaria Rawlins",
+      "bank": "Fortuna Bank",
+      "title": "Founder, President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:28.192Z",
+      "subject": "A capital-raise room for Fortuna Bank's next round"
+    },
+    "trubadue@fortunabank.com": {
+      "email": "trubadue@fortunabank.com",
+      "name": "Tom Rubadue",
+      "bank": "Fortuna Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:33.708Z",
+      "subject": "One ledger for Fortuna Bank's capital raise"
+    },
+    "cwalls@mybankfl.com": {
+      "email": "cwalls@mybankfl.com",
+      "name": "Carl Walls",
+      "bank": "Gala Bank",
+      "title": "President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:39.270Z",
+      "subject": "A capital-raise room for Gala Bank's next round"
+    },
+    "radcock@abc-nc.com": {
+      "email": "radcock@abc-nc.com",
+      "name": "Randy Adcock",
+      "bank": "American Bank",
+      "title": "President & CEO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:44.824Z",
+      "subject": "A capital-raise room for American Bank's next round"
+    },
+    "jharris@abc-nc.com": {
+      "email": "jharris@abc-nc.com",
+      "name": "Jennifer Harris",
+      "bank": "American Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:50.407Z",
+      "subject": "One ledger for American Bank's capital raise"
+    },
+    "daniel.martinez@bankmiami.com": {
+      "email": "daniel.martinez@bankmiami.com",
+      "name": "Daniel R. Martinez",
+      "bank": "BankMiami",
+      "title": "EVP, Chief Banking Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:18:55.957Z",
+      "subject": "Turn BankMiami's customer relationships into a tracked raise"
+    },
+    "david.monter@bankmiami.com": {
+      "email": "david.monter@bankmiami.com",
+      "name": "David Monter",
+      "bank": "BankMiami",
+      "title": "EVP, COO",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:19:01.505Z",
+      "subject": "Less paperwork chasing for BankMiami's capital raise"
+    },
+    "robert.regolizio@bankmiami.com": {
+      "email": "robert.regolizio@bankmiami.com",
+      "name": "Robert C. Regolizio",
+      "bank": "BankMiami",
+      "title": "EVP, Chief Credit Officer",
+      "lastSent": "2026-10-15",
+      "timestamp": "2026-10-15T16:19:07.037Z",
+      "subject": "Turn BankMiami's customer relationships into a tracked raise"
+    },
+    "tom.vertin@altosbank.com": {
+      "email": "tom.vertin@altosbank.com",
+      "name": "Tom Vertin",
+      "bank": "Altos Bank",
+      "title": "CEO",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:06.712Z",
+      "subject": "A capital-raise room for Altos Bank's next round"
+    },
+    "tom.tolda@altosbank.com": {
+      "email": "tom.tolda@altosbank.com",
+      "name": "Tom Tolda",
+      "bank": "Altos Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:13.645Z",
+      "subject": "One ledger for Altos Bank's capital raise"
+    },
+    "najam@beachcitiescb.com": {
+      "email": "najam@beachcitiescb.com",
+      "name": "Najam Saiduddin",
+      "bank": "Beach Cities Commercial Bank",
+      "title": "EVP, CFO",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:19.945Z",
+      "subject": "One ledger for Beach Cities Commercial Bank's capital raise"
+    },
+    "tim@entrebank.com": {
+      "email": "tim@entrebank.com",
+      "name": "Tim Viere",
+      "bank": "EntreBank",
+      "title": "CEO",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:26.328Z",
+      "subject": "A capital-raise room for EntreBank's next round"
+    },
+    "todd@entrebank.com": {
+      "email": "todd@entrebank.com",
+      "name": "Todd Hovland",
+      "bank": "EntreBank",
+      "title": "President",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:32.379Z",
+      "subject": "A capital-raise room for EntreBank's next round"
+    },
+    "erik@entrebank.com": {
+      "email": "erik@entrebank.com",
+      "name": "Erik Knutson",
+      "bank": "EntreBank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:38.695Z",
+      "subject": "One ledger for EntreBank's capital raise"
+    },
+    "agerritsen@fortunabank.com": {
+      "email": "agerritsen@fortunabank.com",
+      "name": "Allie Gerritsen",
+      "bank": "Fortuna Bank",
+      "title": "Chief Credit Officer",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:45.056Z",
+      "subject": "Turn Fortuna Bank's customer relationships into a tracked raise"
+    },
+    "adick@fortunabank.com": {
+      "email": "adick@fortunabank.com",
+      "name": "Ashley Dick",
+      "bank": "Fortuna Bank",
+      "title": "Chief Retail & Community Development Officer",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:50.828Z",
+      "subject": "Turn Fortuna Bank's customer relationships into a tracked raise"
+    },
+    "cranchel@fortunabank.com": {
+      "email": "cranchel@fortunabank.com",
+      "name": "Cathy Ranchel",
+      "bank": "Fortuna Bank",
+      "title": "Director of Operations",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:15:56.444Z",
+      "subject": "Less paperwork chasing for Fortuna Bank's capital raise"
+    },
+    "whan@mygenesisbank.com": {
+      "email": "whan@mygenesisbank.com",
+      "name": "William Han",
+      "bank": "Genesis Bank",
+      "title": "EVP, Chief Financial Officer",
+      "lastSent": "2026-10-25",
+      "timestamp": "2026-10-25T16:16:02.313Z",
+      "subject": "One ledger for Genesis Bank's capital raise"
+    },
+    "charles@tandem.bank": {
+      "email": "charles@tandem.bank",
+      "name": "Charles DeWitt",
+      "bank": "Tandem Bank",
+      "title": "Chairman & CEO",
+      "lastSent": "2026-10-27",
+      "timestamp": "2026-10-27T16:15:06.537Z",
+      "subject": "A capital-raise room for Tandem Bank's next round"
+    },
+    "kellie@tandem.bank": {
+      "email": "kellie@tandem.bank",
+      "name": "Kellie Pressnall",
+      "bank": "Tandem Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-27",
+      "timestamp": "2026-10-27T16:15:13.521Z",
+      "subject": "One ledger for Tandem Bank's capital raise"
+    },
+    "fteas@millyardbank.com": {
+      "email": "fteas@millyardbank.com",
+      "name": "G. Frank Teas",
+      "bank": "The Millyard Bank",
+      "title": "President & CEO",
+      "lastSent": "2026-10-28",
+      "timestamp": "2026-10-28T16:15:06.749Z",
+      "subject": "A capital-raise room for The Millyard Bank's next round"
+    },
+    "twiggins@millyardbank.com": {
+      "email": "twiggins@millyardbank.com",
+      "name": "Thomas B. Wiggins",
+      "bank": "The Millyard Bank",
+      "title": "EVP, CFO",
+      "lastSent": "2026-10-28",
+      "timestamp": "2026-10-28T16:15:12.803Z",
+      "subject": "One ledger for The Millyard Bank's capital raise"
+    },
+    "rallred@abc-nc.com": {
+      "email": "rallred@abc-nc.com",
+      "name": "Ricky Allred",
+      "bank": "American Bank",
+      "title": "Chief Credit Officer",
+      "lastSent": "2026-10-28",
+      "timestamp": "2026-10-28T16:15:19.810Z",
+      "subject": "Turn American Bank's customer relationships into a tracked raise"
+    },
+    "lmaley@bihbank.com": {
+      "email": "lmaley@bihbank.com",
+      "name": "Lori A. Maley, CPA",
+      "bank": "Bank of Bird-in-Hand",
+      "title": "President & CEO / Vice Chair",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:06.359Z",
+      "subject": "A capital-raise room for Bank of Bird-in-Hand's next round"
+    },
+    "rfenwick@bihbank.com": {
+      "email": "rfenwick@bihbank.com",
+      "name": "Robert Fenwick, CPA",
+      "bank": "Bank of Bird-in-Hand",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:12.911Z",
+      "subject": "One ledger for Bank of Bird-in-Hand's capital raise"
+    },
+    "ssefton@bankendeavor.com": {
+      "email": "ssefton@bankendeavor.com",
+      "name": "Steven D. Sefton",
+      "bank": "Endeavor Bank",
+      "title": "President",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:18.762Z",
+      "subject": "A capital-raise room for Endeavor Bank's next round"
+    },
+    "jglance@bankendeavor.com": {
+      "email": "jglance@bankendeavor.com",
+      "name": "Julie Given-Glance",
+      "bank": "Endeavor Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:24.525Z",
+      "subject": "One ledger for Endeavor Bank's capital raise"
+    },
+    "charlie@entrebank.com": {
+      "email": "charlie@entrebank.com",
+      "name": "Charlie Bauman",
+      "bank": "EntreBank",
+      "title": "Chief Credit Officer",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:30.291Z",
+      "subject": "Turn EntreBank's customer relationships into a tracked raise"
+    },
+    "bkrishna@mygenesisbank.com": {
+      "email": "bkrishna@mygenesisbank.com",
+      "name": "Balaji Krishna",
+      "bank": "Genesis Bank",
+      "title": "EVP, Chief Banking Officer",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:36.027Z",
+      "subject": "Turn Genesis Bank's customer relationships into a tracked raise"
+    },
+    "bala@infinity.bank": {
+      "email": "bala@infinity.bank",
+      "name": "Bala Balkrishna",
+      "bank": "Infinity Bank",
+      "title": "CEO",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:41.640Z",
+      "subject": "A capital-raise room for Infinity Bank's next round"
+    },
+    "victor@infinity.bank": {
+      "email": "victor@infinity.bank",
+      "name": "Victor Guerrero",
+      "bank": "Infinity Bank",
+      "title": "President",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:47.394Z",
+      "subject": "A capital-raise room for Infinity Bank's next round"
+    },
+    "allisond@infinity.bank": {
+      "email": "allisond@infinity.bank",
+      "name": "Allison Duncan, CPA",
+      "bank": "Infinity Bank",
+      "title": "Chief Financial Officer",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:53.209Z",
+      "subject": "One ledger for Infinity Bank's capital raise"
+    },
+    "steven@tandem.bank": {
+      "email": "steven@tandem.bank",
+      "name": "Steven Smith",
+      "bank": "Tandem Bank",
+      "title": "Chief Banking Officer",
+      "lastSent": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:58.859Z",
+      "subject": "Turn Tandem Bank's customer relationships into a tracked raise"
+    },
+    "jarcher@bankendeavor.com": {
+      "email": "jarcher@bankendeavor.com",
+      "name": "Joanna Archer",
+      "bank": "Endeavor Bank",
+      "title": "Chief Operating Officer",
+      "lastSent": "2026-10-30",
+      "timestamp": "2026-10-30T16:15:06.181Z",
+      "subject": "Less paperwork chasing for Endeavor Bank's capital raise"
+    },
+    "jharelson@bankendeavor.com": {
+      "email": "jharelson@bankendeavor.com",
+      "name": "John Harelson",
+      "bank": "Endeavor Bank",
+      "title": "Chief Banking Officer",
+      "lastSent": "2026-10-30",
+      "timestamp": "2026-10-30T16:15:13.465Z",
+      "subject": "Turn Endeavor Bank's customer relationships into a tracked raise"
+    },
+    "sparker@bankendeavor.com": {
+      "email": "sparker@bankendeavor.com",
+      "name": "Scott T. Parker",
+      "bank": "Endeavor Bank",
+      "title": "Chief Credit Officer",
+      "lastSent": "2026-10-30",
+      "timestamp": "2026-10-30T16:15:19.797Z",
+      "subject": "Turn Endeavor Bank's customer relationships into a tracked raise"
+    },
+    "taylor@entrebank.com": {
+      "email": "taylor@entrebank.com",
+      "name": "Taylor Ebneter",
+      "bank": "EntreBank",
+      "title": "Chief Information Officer",
+      "lastSent": "2026-10-30",
+      "timestamp": "2026-10-30T16:15:25.901Z",
+      "subject": "A look at how a raise data room can be secured"
+    },
+    "melissa@entrebank.com": {
+      "email": "melissa@entrebank.com",
+      "name": "Melissa Johnston",
+      "bank": "EntreBank",
+      "title": "Chief Experience Officer",
+      "lastSent": "2026-10-30",
+      "timestamp": "2026-10-30T16:15:31.597Z",
+      "subject": "Keeping EntreBank's shareholders and prospects in the loop"
+    },
+    "jesquer@bankendeavor.com": {
+      "email": "jesquer@bankendeavor.com",
+      "name": "Jose Esquer",
+      "bank": "Endeavor Bank",
+      "title": "Chief Technology Officer",
+      "lastSent": "2026-10-30",
+      "timestamp": "2026-10-30T16:15:37.315Z",
+      "subject": "A look at how a raise data room can be secured"
+    }
+  }
+}
